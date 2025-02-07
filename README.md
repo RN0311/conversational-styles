@@ -1,5 +1,5 @@
 # Conversational Styles
-This repository contains features engineered from the transcripts of spoken conversations from the SwitchBoard datasets. I calculated various linguistic, paralinguistics, and prosodic features to understand 
+This repository contains features engineered from the transcripts of spoken conversations from the SwitchBoard datasets. I calculated various linguistic, paralinguistics, and acoustic features to understand 
 The conversation's style and classification of which conversation falls under high consideration and high involvement, as per Deborah Tannen's theory. 
 
 
